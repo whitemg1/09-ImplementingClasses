@@ -24,7 +24,6 @@ class Point(object):
     def move_to(self, x, y):
         self.x = x
         self.y = y
-
 def main():
     """ Calls the   TEST   functions in this module. """
     run_test_init()
