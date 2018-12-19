@@ -249,7 +249,7 @@ def run_test_repr():
         print('Actual for p2:  ', p2)
     """
     # -------------------------------------------------------------------------
-    # TODO: 4.  Follow the same instructions as in _TODO_ 3 above,
+    # DONE: 4.  Follow the same instructions as in _TODO_ 3 above,
     #           but for the  __repr__  method specified above.
     # -------------------------------------------------------------------------
     print()
@@ -619,7 +619,7 @@ def run_test_get_number_of_moves_made():
     # -------------------------------------------------------------------------
     # DONE: 8.  Follow the same instructions as in _TODO_ 3 above,
     #    but for the  get_number_of_moves_made  method specified above.
-    # TODO (continued):  HINT: What must a Point REMEMBER for this method?
+    # DONE (continued):  HINT: What must a Point REMEMBER for this method?
     # -------------------------------------------------------------------------
     print()
     print('-----------------------------------------------------------')
